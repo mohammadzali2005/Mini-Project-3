@@ -18,5 +18,5 @@ I also included a **starter ZIP file** in the repository so others can use it as
 ## 📥 Getting Started
 
 1. **Clone the repository:**
-   git clone https://github.com/mohammadzali2005/Mini-Project_3.git
+   git clone https://github.com/mohammadzali2005/Mini-Project-3
 
